@@ -52,7 +52,7 @@ I aim to build **impactful, data-driven solutions** that make a difference.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="300px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
 </p>
 
 **Also Familiar With:**  
