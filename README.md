@@ -99,13 +99,18 @@ REST APIs, Git & GitHub, Data Visualization, Model Optimization, Backend Systems
 
 ### 📂 Check Out My Projects
 
-<p align="center">
-  <a href="https://github.com/Aadim16?tab=repositories">
-    <p align="center">
-</p>
+<div align="center">
 
+  <h3>📂 Check Out My Projects</h3>
+
+  <a href="https://github.com/Aadim16?tab=repositories" target="_blank">
+    <button style="background-color:#181717; color:white; border:none; padding:10px 22px; border-radius:8px; font-size:15px; cursor:pointer;">
+      🔗 Check My Projects
+    </button>
   </a>
-</p>
+
+</div>
+
 
 ---
 
