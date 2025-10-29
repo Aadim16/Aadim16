@@ -1,19 +1,68 @@
-<h1 align="center">Hi 👋, I'm Aditya Mangla</h1>
-<h3 align="center">Currently a final-year Computer Science Engineering student at Vellore Institute of Technology, Amaravati, Andhra Pradesh. I have experience in Java, Spring Boot, Python, Machine Learning, and Data Analytics.</h3>
+<!-- Intro Section -->
+<div align="center">
+  <h1>👋 Hello, I'm Ileriayo!</h1>
+  <h3>Software Engineer | Dev Advocate 🦎</h3>
 
-- 🌱 I’m currently learning **New Automating Frameworks**
+  <p>
+    <b>NodeJS | React | DevOps</b>
+  </p>
 
-- 💬 Ask me about **Java, Spring Boot, Data Science**
+  <p>
+    <a href="mailto:ileriayomide@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
+    <a href="https://github.com/Ileriayo"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+    <a href="https://dev.to/ileriayo"><img src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" /></a>
+    <a href="https://medium.com/@ileriayo"><img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white" /></a>
+  </p>
 
-- 📫 How to reach me **adityamangla2005@gmail.com**
+  <p><b>(Open for Hiring)</b></p>
+</div>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ASSNSV1yCCJfshmZMyaJFLLH08urXWYA/view?usp=sharing](https://drive.google.com/file/d/1ASSNSV1yCCJfshmZMyaJFLLH08urXWYA/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-mangla-2ab0b4229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-mangla-2ab0b4229/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/aadi_m16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aadi_m16/" height="30" width="40" /></a>
+### 🧑‍💻 Whoami
+A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ileriayo&label=Profile%20views&color=0e75b6&style=flat" alt="ileriayo" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
+
+### 🛠️ Tools of Trade
+
+<p>
+  <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
+
+**Also Experienced With:**  
+TailwindCSS, Python, Docker, Kubernetes, Rancher, TravisCI, Git, GitHub, Bitbucket, Apache, Nginx, Vagrant, Ansible, Jenkins, Azure.
+
+---
+
+### ✍️ My Blog Articles
+<p>
+  <a href="https://dev.to/ileriayo"><img src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" /></a>
+  <a href="https://medium.com/@ileriayo"><img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white" /></a>
+</p>
+
+---
+
+### 🤝 Reach me on
+<p>
+  <a href="https://linkedin.com/in/ileriayo"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/ileriayomide"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:ileriayomide@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 📂 Check Out My Repos ⬇️
+
+<p align="center">
+  <a href="https://github.com/Ileriayo?tab=repositories">
+    <img src="https://img.shields.io/badge/-View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
