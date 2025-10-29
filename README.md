@@ -101,7 +101,10 @@ REST APIs, Git & GitHub, Data Visualization, Model Optimization, Backend Systems
 
 <p align="center">
   <a href="https://github.com/Aadim16?tab=repositories">
-    <img src="https://img.shields.io/badge/-Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300px" />
+</p>
+
   </a>
 </p>
 
