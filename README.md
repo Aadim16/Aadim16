@@ -102,7 +102,6 @@ REST APIs, Git & GitHub, Data Visualization, Model Optimization, Backend Systems
 <p align="center">
   <a href="https://github.com/Aadim16?tab=repositories">
     <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300px" />
 </p>
 
   </a>
@@ -110,8 +109,3 @@ REST APIs, Git & GitHub, Data Visualization, Model Optimization, Backend Systems
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300px">
-  <br>
-  <i>“Building for impact. Learning for growth.”</i> ✨
-</div>
