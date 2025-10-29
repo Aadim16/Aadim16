@@ -1,6 +1,8 @@
 <!-- Intro Section -->
 <div align="center">
-  <h1>👋 Hey there, I'm <span style="color:#FFD43B;">Aditya Mangla!</span></h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px">
+
+  <h1>Hey there, I'm <span style="color:#FFD43B;">Aditya Mangla</span> 👋</h1>
   <h3>🚀 Aspiring Software Engineer | Data & AI Enthusiast | Problem Solver</h3>
 
   <p>
@@ -14,18 +16,21 @@
   </p>
 
   <p><b>🌱 Open to learning, contributing & building impactful projects</b></p>
+
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350px" alt="Coding Animation" />
 </div>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I'm **Aditya Mangla**, a passionate and curious **Computer Science Engineering** student at **VIT-AP University**.  
-I love solving real-world problems through code and data — whether it's backend development using **Spring Boot**,  
-extracting insights from data, or optimizing models in **Machine Learning**.
+Hi, I’m **Aditya Mangla**, a passionate **Computer Science Engineering** student at **VIT-AP University** 🎓.  
+I love transforming ideas into reality through **code**, **data**, and **creativity**.  
 
-✨ My goal is to combine **software engineering** and **AI** to create solutions that make a real-world impact.  
-💡 I enjoy exploring new technologies, collaborating on projects, and continuously improving my craft.
+💡 Whether it’s backend systems, predictive analytics, or full-stack prototypes —  
+I aim to build **impactful, data-driven solutions** that make a difference.
+
+🚀 *Always curious. Always building. Always learning.*
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aadim16&label=Profile%20Views&color=0e75b6&style=flat" alt="Aditya Mangla" />
@@ -46,27 +51,48 @@ extracting insights from data, or optimizing models in **Machine Learning**.
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="300px" />
+</p>
+
 **Also Familiar With:**  
-REST APIs, Git & GitHub, HTML/CSS, Data Visualization, Model Optimization, Backend Systems
+REST APIs, Git & GitHub, Data Visualization, Model Optimization, Backend Systems
 
 ---
 
 ### 🏆 Highlights
 
-- 🧩 **Hackathon Management System** – built a platform supporting admin, evaluator, and participant workflows.  
-- 💡 **Smart Ambulance Routing** – optimized emergency routes using **Dijkstra’s Algorithm** and live traffic simulation.  
-- 🏅 **Ideathon Winner (Pakaid)** – proposed automated parking systems for metropolitan cities.  
-- 📊 **Internships at APROPOS & INeuBytes** – worked on **data analytics**, anomaly detection, and **predictive modeling**.  
-- 🌍 **NSS Volunteer** – contributed to village education drives and menstrual health awareness campaigns.  
+🏗️ **Hackathon Management System** – built a platform supporting admin, evaluator, and participant workflows.  
+🚑 **Smart Ambulance Routing** – optimized emergency routes using **Dijkstra’s Algorithm** and live traffic data.  
+🏅 **Ideathon Winner (Pakaid)** – proposed an **automated parking system** for metropolitan cities.  
+📈 **Internships (APROPOS & INeuBytes)** – focused on **data analytics**, **pattern detection**, and **ML modeling**.  
+❤️ **NSS Volunteer** – promoted menstrual health and education awareness in nearby villages.
 
 ---
 
-### ✍️ Let's Connect
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aadim16&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadim16&theme=tokyonight" height="160px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadim16&layout=compact&theme=tokyonight" height="140px" />
+</p>
+
+---
+
+### ✍️ Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-mangla-2ab0b4229/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:adityamangla2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Aadim16"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="150px">
 </p>
 
 ---
@@ -82,5 +108,7 @@ REST APIs, Git & GitHub, HTML/CSS, Data Visualization, Model Optimization, Backe
 ---
 
 <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300px">
+  <br>
   <i>“Building for impact. Learning for growth.”</i> ✨
 </div>
