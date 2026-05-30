@@ -6,7 +6,7 @@
   <h3>🚀 Aspiring Software Engineer | Data & AI Enthusiast | Problem Solver</h3>
 
   <p>
-    <b>Java | Spring Boot | Python | Machine Learning | Data Science</b>
+    <b>Data Analysis | Java | Spring Boot | Python | Machine Learning | Data Science | SQL</b>
   </p>
 
   <p>
@@ -24,7 +24,7 @@
 
 ### 🧑‍💻 About Me
 
-Hi, I’m **Aditya Mangla**, a passionate **Computer Science Engineering** student at **VIT-AP University** 🎓.  
+Hi, I’m **Aditya Mangla**, Analyst at Eternal | Blinkit** 🎓.  
 I love transforming ideas into reality through **code**, **data**, and **creativity**.  
 
 💡 Whether it’s backend systems, predictive analytics, or full-stack prototypes —  
